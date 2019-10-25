@@ -14,13 +14,13 @@ output:
 ---
 class: left, bottom, inverse
 
-background-image: url("/myndir/klettur.jpeg")
+background-image: url("https://github.com/harkanatta/kajakslides/blob/master/myndir/klettur.jpeg?raw=true")
 background-size: contain
 # Nutum náttúrunnar 
 ---
 
 class: center, inverse
-background-image: url("/myndir/krabbi.jpeg")
+background-image: url("https://github.com/harkanatta/kajakslides/blob/master/myndir/krabbi.jpeg?raw=true")
 background-size: contain
 #Fundum vísbendingu um grjótkrabba 
 ###(einn slíkur kom í gildru stuttu seinna [`r anicon::faa('external-link-alt', animate='float', rtext='BioPol.is')`](https://biopol.is/frettir/grj%C3%B3tkrabbi_%C3%A1_skagastr%C3%B6nd))
@@ -28,31 +28,31 @@ background-size: contain
 ---
 class: center 
 
-# `r anicon::cia("myndir/carlton.gif",animate=F)`.litur[Tækið barst um haustið]
+# `r anicon::cia("https://github.com/harkanatta/kajakslides/blob/master/myndir/carlton.gif?raw=true",animate=F)`.litur[Tækið barst um haustið]
 ```{r echo=FALSE, message=FALSE, warning=FALSE, out.width='50%'}
-knitr::include_graphics("myndir/taekid.jpeg")
+knitr::include_graphics("https://github.com/harkanatta/kajakslides/blob/master/myndir/taekid.jpeg?raw=true")
 ```
 ---
 
 
 class: center, inverse
-background-image: url("/myndir/styra.jpeg")
+background-image: url("https://github.com/harkanatta/kajakslides/blob/master/myndir/styra.jpeg?raw=true")
 background-size: contain
 # .pull-left[.litur[Prufukeyrsla með græjuna `r anicon::faa("gamepad", animate='ring')`]]
 
 ---
 
 class: middle 
-# .pull-left[ `r anicon::cia("myndir/bug.gif",animate=F)` Svo varð eitthvert djöfulsins bilerí]
+# .pull-left[ `r anicon::cia("https://github.com/harkanatta/kajakslides/blob/master/myndir/bug.gif?raw=true",animate=F)` Svo varð eitthvert djöfulsins bilerí]
 .pull-right[
 ```{r echo=FALSE, message=FALSE, warning=FALSE, out.width='100%'}
-knitr::include_graphics("myndir/bileri.png")
+knitr::include_graphics("https://github.com/harkanatta/kajakslides/blob/master/myndir/bileri.png?raw=true")
 ```
 ]
 ---
 
 class: bottom
-background-image: url("/myndir/thari.png")
+background-image: url("https://github.com/harkanatta/kajakslides/blob/master/myndir/thari.png?raw=true")
 background-size: contain
-# .pull-left[.litur[Við fengum nýtt tæki og þá gátu rannsóknir hafist `r anicon::cia("myndir/aw_yeah.gif",animate=F)`]]
+# .pull-left[.litur[Við fengum nýtt tæki og þá gátu rannsóknir hafist `r anicon::cia("https://raw.githubusercontent.com/harkanatta/kajakslides/master/myndir/aw_yeah.gif",animate=F)`]]
 
